@@ -1,4 +1,4 @@
-function counter()
-{
-return  "statements"
-}
+function myfunction()
+ {
+document.write("welcome to Javatpoint");
+         }
