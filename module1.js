@@ -4,7 +4,6 @@ function counter()
     document.write("welcome to Javatpoint");
     document.write("<br>");
     c = c + 1;
-    writer.write(c)
     document.write(c);
 
 }
